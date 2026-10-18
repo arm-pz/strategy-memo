@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "strategy-memo",
+  "version": "0.1.0",
+  "description": "Business strategy as a decision document: situation analysis, ranked recommendation with evidence labels, and a dated execution roadmap.",
+  "author": {
+    "name": "arm-pz",
+    "url": "https://github.com/arm-pz"
+  },
+  "homepage": "https://github.com/arm-pz/strategy-memo",
+  "repository": "https://github.com/arm-pz/strategy-memo",
+  "keywords": ["strategy", "business-model-canvas", "go-to-market", "pricing", "roadmap", "swot"],
+  "skills": "./skills/"
+}
